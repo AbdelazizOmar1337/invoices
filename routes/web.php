@@ -19,6 +19,6 @@ Route::get('/', function () {
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/home', 'HomeController@index2')->name('home');
 
 Route::get('/{pageName}', 'Themes\ThemeController@index')->name('');

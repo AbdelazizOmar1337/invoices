@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19557e0d-2710-40b2-af02-0a9e105a7274" name="Default Changelist" comment="" />
+    <list default="true" id="19557e0d-2710-40b2-af02-0a9e105a7274" name="Default Changelist" comment="Version 1invoices">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,16 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/AbdelazizOmar1337/invoices" />
+      </set>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/routes/web.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
@@ -137,7 +150,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -155,6 +168,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Abdelaziz\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="19557e0d-2710-40b2-af02-0a9e105a7274" name="Default Changelist" comment="" />
@@ -162,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613417042179</updated>
-      <workItem from="1613417044328" duration="4885000" />
+      <workItem from="1613417044328" duration="6005000" />
     </task>
     <servers />
   </component>
@@ -170,21 +186,29 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="715" y="345" key="#Notifications" timestamp="1613674113584">
+    <state x="715" y="345" key="#Notifications" timestamp="1613675071443">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="715" y="345" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1613674113584" />
-    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1613673995483">
+    <state x="715" y="345" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1613675071443" />
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1613675128333">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1613673995483" />
-    <state x="836" y="427" key="Github.ShareDialog" timestamp="1613674235385">
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1613675128333" />
+    <state x="836" y="427" key="Github.ShareDialog" timestamp="1613675093423">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="836" y="427" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1613674235385" />
-    <state x="725" y="224" width="998" height="743" key="SettingsEditor" timestamp="1613673872413">
+    <state x="836" y="427" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1613675093423" />
+    <state x="725" y="224" width="998" height="743" key="SettingsEditor" timestamp="1613675193670">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="725" y="224" width="998" height="743" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1613673872413" />
+    <state x="725" y="224" width="998" height="743" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1613675193670" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1613674321571">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1613674321571" />
+    <state x="790" y="316" key="svn.repositoryBrowser" timestamp="1613674776629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="790" y="316" key="svn.repositoryBrowser/0.0.1920.1050@0.0.1920.1050" timestamp="1613674776629" />
   </component>
 </project>
